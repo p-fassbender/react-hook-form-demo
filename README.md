@@ -54,7 +54,7 @@ This project is focused on learning and understanding many different React Hook 
 3. **Install project dependencies**:
     - Navigate to the project directory:
       ```bash
-      cd react-router-demo
+      cd react-hook-form-demo
       ```
     - Run the following command to install the required dependencies:
       ```bash
