@@ -1,4 +1,4 @@
-# React Hok Form Demo
+# React Hook Form Demo
 An exploration of the basics of React Hook Form library and how to use it.
 
 ## Table of Contents
